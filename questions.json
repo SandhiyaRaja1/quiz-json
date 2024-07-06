@@ -1,0 +1,122 @@
+[
+    {
+        "type": "radio",
+        "question": "What is the output of \"console.log(typeof null)\"?",
+        "options": ["null", "object", "undefined", "number"],
+        "correctAnswer": "object"
+    },
+    {
+        "type": "radio",
+        "question": "Which of the following are JavaScript data types?",
+        "options": ["Character", "String", "Boolean", "Object"],
+        "correctAnswer": "Object"
+    },
+    {
+        "type": "radio",
+        "question": "Which company developed JavaScript?",
+        "options": ["Microsoft", "Netscape", "Google", "Oracle"],
+        "correctAnswer": "Netscape"
+    },
+    {
+        "type": "radio",
+        "question": "Which method is used to add an element to the end of an array?",
+        "options": ["push()", "pop()", "shift()", "unshift()"],
+        "correctAnswer": "push()"
+    },
+    {
+        "type": "radio",
+        "question": "What is the result of \"1 + '1'\" in JavaScript?",
+        "options": ["2", "11", "undefined", "NaN"],
+        "correctAnswer": "11"
+    },
+    {
+        "type": "radio",
+        "question": "Which of these are JavaScript frameworks or libraries?",
+        "options": ["React", "Laravel", "Django", "Rails"],
+        "correctAnswer": "React"
+    },
+    {
+        "type": "radio",
+        "question": "Which symbol is used for comments in JavaScript?",
+        "options": ["//", "/*", "#", "/--"],
+        "correctAnswer": "//"
+    },
+    {
+        "type": "radio",
+        "question": "Which method is used to remove the last element from an array?",
+        "options": ["push()", "pop()", "shift()", "unshift()"],
+        "correctAnswer": "pop()"
+    },
+    {
+        "type": "radio",
+        "question": "What is the output of \"console.log([] + [])\"?",
+        "options": ["[]", "undefined", "\"\"", "null"],
+        "correctAnswer": "\"\""
+    },
+    {
+        "type": "radio",
+        "question": "Which of the following are looping structures in JavaScript?",
+        "options": ["for", "foreach", "loop", "while"],
+        "correctAnswer": "for"
+    },
+    {
+        "type": "radio",
+        "question": "Which method is used to find HTML elements by ID?",
+        "options": ["getElementById()", "querySelector()", "getElementsByClassName()", "getElementsByTagName()"],
+        "correctAnswer": "getElementById()"
+    },
+    {
+        "type": "radio",
+        "question": "Which of the following is a JavaScript package manager?",
+        "options": ["npm", "pip", "composer", "gem"],
+        "correctAnswer": "npm"
+    },
+    {
+        "type": "radio",
+        "question": "What is the keyword used to declare a variable in JavaScript?",
+        "options": ["let", "int", "float", "double"],
+        "correctAnswer": "let"
+    },
+    {
+        "type": "radio",
+        "question": "Which of the following are JavaScript comparison operators?",
+        "options": ["==", "===", "<>", "!="],
+        "correctAnswer": "==="
+    },
+    {
+        "type": "radio",
+        "question": "Which JavaScript method is used to write HTML content?",
+        "options": ["document.write()", "console.log()", "window.alert()", "innerHTML"],
+        "correctAnswer": "document.write()"
+    },
+    {
+        "type": "radio",
+        "question": "Which of the following is used to convert a string to an integer?",
+        "options": ["parseInt()", "parseFloat()", "toString()", "Number()"],
+        "correctAnswer": "parseInt()"
+    },
+    {
+        "type": "radio",
+        "question": "What will the code \"Boolean('false')\" return?",
+        "options": ["true", "false", "undefined", "null"],
+        "correctAnswer": "true"
+    },
+    {
+        "type": "radio",
+        "question": "Which of these are JavaScript primitive types?",
+        "options": ["String", "Array", "Object", "Function"],
+        "correctAnswer": "String"
+    },
+    {
+        "type": "radio",
+        "question": "Which function is used to parse a JSON string to an object?",
+        "options": ["JSON.parse()", "JSON.stringify()", "JSON.object()", "JSON.toObject()"],
+        "correctAnswer": "JSON.parse()"
+    },
+    {
+        "type": "radio",
+        "question": "Which method is used to join two or more arrays?",
+        "options": ["concat()", "join()", "append()", "merge()"],
+        "correctAnswer": "concat()"
+    }
+]

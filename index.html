@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Application</title>
+    <link rel="stylesheet" href="style.css"> <!-- Adjust path if necessary -->
+</head>
+<body>
+
+<div class="quiz-container" id="quiz"></div>
+<div class="pagination-container" id="pagination"></div>
+<button class="nav-button" id="prev-page">Previous</button>
+<button class="nav-button" id="next-page">Next</button>
+<button class="submit-button" id="submit">Submit</button>
+
+<div class="score-popup" id="score-popup">
+    <h2>Your Score</h2>
+    <p>You scored: <span id="quiz-score"></span> out of <span id="total-score"></span></p>
+    <p>Thank you for taking the quiz!</p>
+</div>
+
+<div class="timer" id="timer">
+    Time Left: <span class="timer-display"></span>
+</div>
+
+<script src="script.js"></script> <!-- Ensure your JavaScript file is properly linked -->
+</body>
+</html>
